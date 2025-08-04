@@ -1,10 +1,8 @@
 # 🧑‍🍳 Recipe Preparation Agent – IBM Cloud Based AI Project
 
-**Final Year Capstone Project**  
+**Capstone Project**  
 🎓 *Jairaj Kolhatkar*  
 Department of Computer Science & Engineering  
-Prof. Ram Meghe Institute of Technology and Research, Amravati  
-
 ---
 
 ## 📌 Project Overview
